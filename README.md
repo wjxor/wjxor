@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @wjxor
 - 👀 I’m interested in Lost Ark
-- 🌱 I’m currently learning Machine Learning
 
 <!---
 wjxor/wjxor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
