@@ -17,4 +17,4 @@
 
 ## 🏅 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=wjxor&custom_title=wjxor's%20Github%20Stats&show_icons=true" height="165"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjxor&layout=compact" height="165">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wjxor&theme=default" height="180"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wjxor&theme=default" height="180">
