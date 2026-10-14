@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @wjxor
+# 👋 Hi, I'm Ko SangHyeob
 
 ## 🛠️ Tech Stacks
 
